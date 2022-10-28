@@ -1,2 +1,3 @@
 # Imperial
- Imperial MOD
+ Imperial MOD for Paradox Empire
+ By ionmaster
