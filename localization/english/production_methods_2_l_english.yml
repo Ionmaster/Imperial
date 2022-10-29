@@ -65,7 +65,8 @@
 
   # Foundries
  pm_steamworks:0 "Steamworks"
- pm_no_artillery_production:0 "Prioritize Small Arms Production"
+ pm_no_firearms:0 "No Small Arms Production"
+ pm_no_artillery_production:0 "No Artillery Production"
  pm_artillery_production:0 "Artillery Production"
 
   # Motor Industries

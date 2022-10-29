@@ -2754,6 +2754,27 @@ pm_radios = {
 	}
 }
 
+pm_no_firearms = {
+	texture = "gfx/interface/icons/production_method_icons/no_arms_manufacturing.dds"
+	
+	building_modifiers = {
+		workforce_scaled = {
+			# input goods
+			building_input_iron_add = 0
+			building_input_hardwood_add = 0
+			
+			# output goods
+			building_output_small_arms_add = 0
+		}
+
+		level_scaled = {
+			# employment
+			building_employment_laborers_add = 0
+			building_employment_machinists_add = 0
+		}
+	}
+}
+
 pm_muskets = {
 	texture = "gfx/interface/icons/production_method_icons/muskets.dds"
 	
