@@ -78,3 +78,12 @@ state_trait_siberian_terrain = {
 		state_infrastructure_mult = -0.2
 	}
 }
+
+state_trait_northern_japanese_islands = {
+    icon = "gfx/interface/icons/state_trait_icons/tropical_climate.dds"
+	
+	modifier = {
+		state_non_homeland_colony_growth_speed_mult = -0.99
+		state_infrastructure_mult = 0.1
+	}
+}

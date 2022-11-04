@@ -1,9 +1,9 @@
 ✠IMPERIAL MOD PARADOX EMPIRE✠
 
-A mod geared towards a balanced multiplayer experience, specifically made for use by the Paradox Empire discord server
+A Total Conversion mod geared towards a balanced multiplayer experience, minor economy and QoL fixes, and Military balance, specifically made for use by the Paradox Empire discord server
 
 -Changelog (In Spanish): https://docs.google.com/document/d/1qxuqHqhdFFxEGe8a5CCa-jfIbH22JhOoq12JXb-Vkzc/edit?usp=sharing
 
--Credit to Alderon Tyran for the Minor Economy Modifications
+-Credit to Anbeeld for the State Transfer Tool mod
 
--Credit to @Anbeeld for the State Transfer Tool
+-Credit to Anbeeld for the ARoAI mod
